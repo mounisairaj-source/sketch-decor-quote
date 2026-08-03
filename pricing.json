@@ -1,0 +1,15 @@
+{
+  "base_guests": 200,
+  "guest_scaling_factor": 0.55,
+  "lighting_tiers": [
+    { "label": "Standard uplighting — included", "price": 0 },
+    { "label": "Full ambient + pin-spot lighting", "price": 4500 },
+    { "label": "Full production lighting design", "price": 8000 }
+  ],
+  "addons": [
+    { "label": "Suspended overhead expansion (full ceiling)", "price": 6000 },
+    { "label": "Extended lounge / cocktail vignette", "price": 3200 },
+    { "label": "Late-night change of scenery", "price": 2400 },
+    { "label": "Monogram / custom signage package", "price": 1800 }
+  ]
+}

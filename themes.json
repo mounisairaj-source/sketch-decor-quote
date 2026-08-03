@@ -1,0 +1,47 @@
+[
+  {
+    "id": "eternal",
+    "name": "Eternal",
+    "style_tag": "Timeless & Romantic",
+    "base_price": 38000,
+    "swatches": ["#F7E9E4", "#EFD9CE", "#C9A66B"],
+    "accent": "#C98A93",
+    "description_template": "Cascading garden roses and peonies, warm candlelight, and soft draping in blush, ivory, and champagne. {venue_tie_in}",
+    "scaled_details": [
+      "Overhead statement: floral cloud installation",
+      "Ceremony focal: cascading floral arch",
+      "~20–25 guest tables + sweetheart table",
+      "Lounge vignette + candlelit entrance moment"
+    ]
+  },
+  {
+    "id": "lumiere",
+    "name": "Lumière",
+    "style_tag": "Modern & Luxe / Glam",
+    "base_price": 46000,
+    "swatches": ["#FFFFFF", "#D4AF37", "#1A1A1A"],
+    "accent": "#B08D57",
+    "description_template": "Mirror-and-gold tablescapes beneath a bespoke overhead crystal or geometric installation. Monochrome white and gold with black accents, sculptural florals, and a high-drama entrance moment. {venue_tie_in}",
+    "scaled_details": [
+      "Overhead statement: crystal / geometric installation",
+      "Ceremony focal: sculptural floral moment",
+      "~20–25 guest tables + sweetheart table",
+      "Lounge vignette + high-drama entrance"
+    ]
+  },
+  {
+    "id": "verdant",
+    "name": "Verdant",
+    "style_tag": "Garden & Organic",
+    "base_price": 41000,
+    "swatches": ["#8FA37E", "#C97F5B", "#F2ECE1"],
+    "accent": "#7C9473",
+    "description_template": "A suspended greenery-and-bloom ceiling over wild-garden florals, natural wood and linen textures. Sage, terracotta, and cream, with warm festoon lighting for a living, biophilic feel. {venue_tie_in}",
+    "scaled_details": [
+      "Overhead statement: suspended greenery ceiling",
+      "Ceremony focal: wild-garden floral moment",
+      "~20–25 guest tables + head table",
+      "Lounge vignette + festoon-lit entrance"
+    ]
+  }
+]
